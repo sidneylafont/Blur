@@ -2,21 +2,21 @@
 
 A python script that blurs images using a gaussian blur
 
-to encode a message using terminal:
+to blur an image using terminal:
 
         $ cd Blur
         $ python blur.py path-to-image 
 
-This will add the image blurred.png, which contains the message to the images folder 
+This will add the blurred image, originalimagenameblurred.png, to the image folder
 
 # Example
 
-For example to hide the message "Steganography is cool" in pre1.jpg:
+For example to blur pre1.jpg:
 
         $ cd Blur
         $ python blur.py images/pre1.jpg 
 
-Here are a series of images that have been blurred:
+Here are a series of images that have been blurred using the blur.py script:
 
 ![pre1.jpg](/images/pre1.jpg)
 ![pre1.jpg](/images/pre1blurred.jpg)
