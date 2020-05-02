@@ -24,7 +24,9 @@ Here are a series of images that have been blurred using the blur.py script:
 ![pre1.jpg](/images/pre1blurredblurredblurred.jpg)
 ![pre1.jpg](/images/pre1blurredblurredblurredblurred.jpg)
 ![pre1.jpg](/images/pre1blurredblurredblurredblurredblurred.jpg)
-        
+![pre1.jpg](/images/pre1blurredblurredblurredblurredblurredblurred.jpg)
+![pre1.jpg](/images/pre1blurredblurredblurredblurredblurredblurredblurred.jpg)
+
 # Packages
 
 - Pillow (PIL)
